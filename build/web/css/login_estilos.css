@@ -1,0 +1,40 @@
+
+body{
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 300; 
+    background: #9EFBA9;    
+}
+
+.form-control,.btn{
+    min-height: 3.125rem;
+    line-height: initial;    
+}
+.img-1{
+    background-image:url('../imagenes/consul1.jpg');
+    background-size: cover;
+    background-position: center;   
+      }
+             
+.img-2{
+    background-image:url('../imagenes/consul2.jpg');
+    background-size: cover;
+    background-position: center;   
+             }
+             
+ .ct{
+   color:#0C0C59;
+}
+
+.fond{
+    font-family: 'League Spartan', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('../imagenes/reg_img.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.bg-light{
+    opacity: 0.9;
+    
+}
+
